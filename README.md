@@ -6,7 +6,9 @@
 
 ### Demo video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sbm9bPMz6vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- [![Demo video](https://img.youtube.com/vi/sbm9bPMz6vk/maxresdefault.jpg)](https://youtu.be/sbm9bPMz6vk) -->
+[![Demo video](https://markdown-videos.deta.dev/youtube/sbm9bPMz6vk)](https://youtu.be/sbm9bPMz6vk)
+
 
 ---
 
@@ -19,17 +21,17 @@
 
 ### Screenshots
 
-![Screenshot 1](Documents\Slide1.JPG)
-![Screenshot 2](Documents\Slide2.JPG)
+![Screenshot 1](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Slide1.JPG)
+![Screenshot 2](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Slide2.JPG)
 
 ---
 
 ### Game Play
-![Screenshot 6](Documents\Screenshots\Picture4.png)
-![Screenshot 5](Documents\Screenshots\Picture3.png)
-![Screenshot 3](Documents\Screenshots\Picture1.png)
-![Screenshot 4](Documents\Screenshots\Picture2.png)
-![Screenshot 7](Documents\Screenshots\Picture5.png)
+![Screenshot 6](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Screenshots/Picture4.png)
+![Screenshot 5](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Screenshots/Picture3.png)
+![Screenshot 3](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Screenshots/Picture1.png)
+![Screenshot 4](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Screenshots/Picture2.png)
+![Screenshot 7](https://github.com/SachinSahu431/G4SDG/blob/main/Documents/Screenshots/Picture5.png)
 
 ---
 
